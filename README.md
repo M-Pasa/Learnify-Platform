@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://learnifyplatform.online/assets/logo-Dj0lzhvA.svg" alt="Learnify Logo" width="400" />
+  <img src="docs/assets/light_logo.svg" alt="Learnify Logo" width="400" />
 
   <br />
   <br />
