@@ -5,8 +5,6 @@
   <br />
   <br />
 
-  # <img src="docs/assets/icons/graduation-cap.png" width="35" /> Learnify
-
   ### The Modern Learning Management System
 
   [![Live Demo](https://img.shields.io/badge/Live_Demo-learnifyplatform.online-00CA58?style=for-the-badge)](https://learnifyplatform.online)
@@ -89,18 +87,18 @@ Learnify follows a **clean client-server architecture** enabling independent sca
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                              CLIENT LAYER                                    │
+│                              CLIENT LAYER                                   │
 │  ┌───────────────────────────────────────────────────────────────────────┐  │
-│  │                    React 18 SPA (Vite + Tailwind)                      │  │
+│  │                    React 18 SPA (Vite + Tailwind)                     │  │
 │  │       • Component-based UI        • Context State Management          │  │
 │  │       • Axios HTTP Client         • React Router Navigation           │  │
 │  └───────────────────────────────────────────────────────────────────────┘  │
 └─────────────────────────────────────┬───────────────────────────────────────┘
                                       │ HTTPS / REST API
 ┌─────────────────────────────────────▼───────────────────────────────────────┐
-│                              SERVER LAYER                                    │
+│                              SERVER LAYER                                   │
 │  ┌───────────────────────────────────────────────────────────────────────┐  │
-│  │                    ASP.NET Core 9 Web API                              │  │
+│  │                    ASP.NET Core 9 Web API                             │  │
 │  │       • RESTful Controllers       • JWT Authentication                │  │
 │  │       • Service Layer             • Entity Framework Core             │  │
 │  │       • Email Templates           • File Upload Handling              │  │
@@ -108,9 +106,9 @@ Learnify follows a **clean client-server architecture** enabling independent sca
 └─────────────────────────────────────┬───────────────────────────────────────┘
                                       │ EF Core ORM
 ┌─────────────────────────────────────▼───────────────────────────────────────┐
-│                               DATA LAYER                                     │
+│                               DATA LAYER                                    │
 │  ┌───────────────────────────────────────────────────────────────────────┐  │
-│  │                      Microsoft SQL Server                              │  │
+│  │                      Microsoft SQL Server                             │  │
 │  │       • Users & Authentication    • Courses & Content                 │  │
 │  │       • Enrollments & Progress    • Payments & Reviews                │  │
 │  └───────────────────────────────────────────────────────────────────────┘  │
@@ -250,15 +248,15 @@ Learnify includes a comprehensive **template-based email system** for all platfo
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                         ADMIN                                    │
+│                         ADMIN                                   │
 │  • Full system access     • User management                     │
 │  • Content moderation     • Enrollment control                  │
 ├─────────────────────────────────────────────────────────────────┤
-│                        EDUCATOR                                  │
+│                        EDUCATOR                                 │
 │  • Create/edit courses    • View analytics                      │
 │  • Manage content         • Request payouts                     │
 ├─────────────────────────────────────────────────────────────────┤
-│                        STUDENT                                   │
+│                        STUDENT                                  │
 │  • Browse courses         • Enroll & pay                        │
 │  • Track progress         • Leave reviews                       │
 └─────────────────────────────────────────────────────────────────┘
@@ -297,11 +295,6 @@ Experience Learnify in action:
 
 </div>
 
----
-
-## <img src="docs/assets/icons/clipboard.png" width="24" /> License
-
-This project is licensed under the MIT License.
 
 ---
 
