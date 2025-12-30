@@ -310,13 +310,6 @@ Have questions or feedback? We'd love to hear from you!
 <div align="center">
 
   Made with ❤️ by the **Learnify Team**
-
-  <br />
-
-  ⭐ Star this repository if you found it helpful!
-
-  <br /><br />
-
   Copyright © 2025 Learnify. All Rights Reserved.
 
 </div>
